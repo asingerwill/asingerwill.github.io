@@ -1,0 +1,9 @@
+name: "wills-website"
+output_dir: "."
+navbar:
+  title: "Will Asinger"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
