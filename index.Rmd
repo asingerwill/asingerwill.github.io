@@ -1,5 +1,24 @@
 ---
-title: "Will Asinger"
+title: "Home"
+output: html_document
 ---
 
-Hello, World!
+<div class="text-center">
+
+# Will Asinger
+
+**Ph.D. Student in Biostatistics**  
+
+*Interested in spatiotemporal modeling, medical image analysis, and multimodal integration*  
+
+[GitHub](https://github.com/asingerwill) • [LinkedIn](https://www.linkedin.com/in/willasinger/) • [University Email](asing005@umn.edu) • (Personal Email)[asingerwill@gmail.com]
+
+</div>
+
+---
+
+## Welcome
+
+Welcome to my personal site! I am a first-year Ph.D. student in biostatistics at the University of Minnesota.
+
+Check out my [About](about.html) page to learn more!

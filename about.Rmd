@@ -1,5 +1,14 @@
 ---
-title: "Will Asinger: About"
+title: "About"
+output: html_document
 ---
 
-Hello, World!
+# About Me
+
+I am a first-year Ph.D. student in the Biostatistics and Health Data Science program at the University of Minnesota School of Public Health in Minneapolis, MN. I work in spatiotemporal modeling for neuroimaging research with Dr. Mark Fiecas. I also collaborate with researchers at Memorial Sloan Kettering Cancer Center in multimodal data integration. I'm passionate about statistical collaboration in medical research, and open to summer internships in biostatistics or a related field.
+
+---
+
+## Outside of Academia
+
+When I am not studying or working on research, I love to cook, eat, and take pictures of food. You can find out more on [Instagram](https://www.instagram.com/will.cooks.and.eats/)!
