@@ -11,7 +11,7 @@ output: html_document
 
 *Interested in spatiotemporal modeling, medical image analysis, and multimodal integration*  
 
-[GitHub](https://github.com/asingerwill) • [LinkedIn](https://www.linkedin.com/in/willasinger/) • [University Email](asing005@umn.edu) • (Personal Email)[asingerwill@gmail.com]
+[GitHub](https://github.com/asingerwill) • [LinkedIn](https://www.linkedin.com/in/willasinger/) • [University Email](asing005@umn.edu) • [Personal Email](asingerwill@gmail.com)
 
 </div>
 
